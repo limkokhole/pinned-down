@@ -1,0 +1,19 @@
+{
+  "name" : "pinned-down",
+  "version" : "0.1.0",
+  "description" : "Script to download all public images from a Pinterest account.",
+  "author" : "Will Rossiter",
+  "repository": {
+      "type": "git",
+      "url": "https://github.com/wilr/pinned-down"
+  },
+  "engines": {
+      "node": ">=0.8.8"
+  },
+  "dependencies": {
+    "optimist": "",
+    "scraper": "0.0.9",
+    "wget": ""
+  }
+}
+
